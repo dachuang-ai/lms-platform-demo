@@ -1,0 +1,6 @@
+{
+  "name": "達創 智慧學習平台 Demo",
+  "description": "達創智能科技 AI 學習科技平台 Demo - 整合課程、教師管理、會員系統與多合一學習工具的高級智慧學習系統。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
